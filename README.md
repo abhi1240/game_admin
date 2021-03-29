@@ -1,2 +1,2 @@
 # game_admin
-admin
+admin/staff
